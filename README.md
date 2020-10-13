@@ -10,7 +10,7 @@ FAQ курса<br>
 |---|---|---|---|---|---|
 |1|15 сентября 2020|Вводная лекция|[презентация](https://docs.google.com/presentation/d/1IZmV7YlhKk8N_--YUMpvUVBMAl5zWRWsSwkLPfTBN8g/edit?usp=sharing)|[код](https://colab.research.google.com/drive/1l4MUvWtQFpRfrl-afGKKbuFTEJ0-2JI4?usp=sharing)|нет|
 |2|29 сентября 2020|Графы знаний в DH и их применение|[презентация](https://docs.google.com/presentation/d/1OrF-zwF5CQRWPfasEm0LwJI5gmYrDZSp8EDylmJjG-k/edit?usp=sharing)|[код](https://colab.research.google.com/drive/1WaO4hQxzqhPA5Lvc23bPLKM3O6smH4iA?usp=sharing)|нет|
-|3|14 октября 2020|Организация знаний. Онтологии, тезаурусы, базы знаний, графы знаний. Иерархия концептов внутри онтологии. Дизайн онтологий|[презентация]()|[код]()|ссылка|
+|3|13 октября 2020|Организация знаний. Онтологии, тезаурусы, базы знаний, графы знаний. Иерархия концептов внутри онтологии. Дизайн онтологий|[презентация](https://docs.google.com/presentation/d/15hwLnP1_CloLn9qM06lW0IX2k3V8sIHBuU_qxNVVS_o/edit#slide=id.g9cf3f270d2_0_89)|[код](https://colab.research.google.com/drive/1VvjQUR3xyqDd3029eYdqEhLw3Hd0m6N5?usp=sharing)|ссылка|
 |4||Онтологии-2||||
 |5||Knowledge mining. Information Retrieval, Information Extraction и Knowledge extraction|||||
 |6||Базы знаний|||
