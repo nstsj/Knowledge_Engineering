@@ -5,7 +5,7 @@
 [тг-чат]()<br>
 FAQ курса<br>
 
-**план курса**<br>
+## план курса<br>
 |№|Дата|Тема|Презентация|Код|ДЗ|
 |---|---|---|---|---|---|
 |1|15 сентября 2020|Вводная лекция|[презентация](https://docs.google.com/presentation/d/1IZmV7YlhKk8N_--YUMpvUVBMAl5zWRWsSwkLPfTBN8g/edit?usp=sharing)|[код](https://colab.research.google.com/drive/1l4MUvWtQFpRfrl-afGKKbuFTEJ0-2JI4?usp=sharing)|нет|
@@ -17,5 +17,5 @@ FAQ курса<br>
 |7||Knowledge + systems evaluation:  как оценить извлеченную информацию и работу системы извлечения знаний||||
 |8||Защита проектов||||
 
-**дополнительные материалы**
+## дополнительные материалы <br>
 [рекап про ООП](https://www.datacamp.com/community/tutorials/python-oop-tutorial)
