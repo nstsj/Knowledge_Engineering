@@ -13,3 +13,9 @@
 Проект можно делать индивидуально, в парах или тройках *(проект должен масштабироваться на количество участников)*<br>
 Защита в конце декабря
 
+P.S.: Графы знаний в DH и не только: примеры
+- [The Italian Cultural Heritage Knowledge Graph](https://centri.unibo.it/dharc/en/research/projects-at-dh-arc)
+- [Ontoterminology of Ancient Greek Pottery](http://o4dh.com/datasets)
+- [обзор на применение knowledge-графов](https://arxiv.org/pdf/2002.00388.pdf)
+- [DBPedia и гемификация для образовательных проектов](https://dh2018.adho.org/revitalizing-wikipedia-dbpedia-open-data-by-gamification-sparql-and-api-experiment-for-edutainment-in-digital-humanities/)
+- [обзор на возможности графов знаний](https://cs.hse.ru/data/2020/04/07/1554782697/16_11_huawei_michael%20galkin_knowledge_graphs.pdf)
