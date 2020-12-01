@@ -18,4 +18,4 @@ P.S.: Графы знаний в DH и не только: примеры
 - [Ontoterminology of Ancient Greek Pottery](http://o4dh.com/datasets)
 - [обзор на применение knowledge-графов](https://arxiv.org/pdf/2002.00388.pdf)
 - [DBPedia и гемификация для образовательных проектов](https://dh2018.adho.org/revitalizing-wikipedia-dbpedia-open-data-by-gamification-sparql-and-api-experiment-for-edutainment-in-digital-humanities/)
-- [обзор на возможности графов знаний](https://cs.hse.ru/data/2020/04/07/1554782697/16_11_huawei_michael%20galkin_knowledge_graphs.pdf)
+- [обзор на возможности графов знаний](https://www.youtube.com/watch?v=XelHaO9bgcM&ab_channel=NaturalLanguageProcessingSeminar)
