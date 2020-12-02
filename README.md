@@ -1,8 +1,6 @@
 # Knowledge_Engineering
 Репозиторий курса «Онтологии и инженерия знаний» для магистров 2 года ОП “Цифровые методы в гуманитарных науках”
 
-[место встречи](https://teams.microsoft.com/l/team/19%3a1ff76f3555cd49339010937143345a3f%40thread.tacv2/conversations?groupId=d4f80fc0-e222-4d45-8374-731267970525&tenantId=21f26c24-0793-4b07-a73d-563cd2ec235f)<br>
-[тг-чат]()<br>
 FAQ курса<br>
 
 **формула оценки**<br>
