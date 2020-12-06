@@ -18,7 +18,7 @@ FAQ курса<br>
 |5|1 декабря 2020|Linked data mining: Information Retrieval, Information Extraction и Knowledge extraction|--|[код](https://colab.research.google.com/drive/1bJxV-QcTJaY00fGAl_UbWl0SfMKq0ZWe?usp=sharing)||
 |6|8 декабря 2020|Knowledge + systems evaluation:  как оценить извлеченную информацию и работу системы извлечения знаний|||
 |7|15 декабря 2020|Базы знаний||||
-|8|25 декабря|Экзамен. Защита проектов||||
+|8|25 декабря 2020|Экзамен. Защита проектов||||
 
 ## дополнительные материалы <br>
 [рекап про ООП](https://www.datacamp.com/community/tutorials/python-oop-tutorial)
