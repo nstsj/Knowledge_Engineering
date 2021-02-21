@@ -22,4 +22,4 @@ FAQ курса<br>
 
 ## дополнительные материалы <br>
 [рекап про ООП](https://www.datacamp.com/community/tutorials/python-oop-tutorial)
-[презентация про knowledge mining из сырых текстов](https://kgtutorial.github.io/)
+
